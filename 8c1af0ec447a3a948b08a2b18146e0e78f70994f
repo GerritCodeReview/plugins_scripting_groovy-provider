@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3475cf00_1d16f4a1",
+        "filename": "external_plugin_deps.bzl",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1011323
+      },
+      "writtenOn": "Feb 5, 2017 11:38:54 PM",
+      "side": 1,
+      "message": "@Luca shoul we update that? The last one is 2.4.8 from January 2017.",
+      "range": {
+        "startLine": 6,
+        "startChar": 47,
+        "endLine": 6,
+        "endChar": 52
+      },
+      "revId": "8c1af0ec447a3a948b08a2b18146e0e78f70994f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
