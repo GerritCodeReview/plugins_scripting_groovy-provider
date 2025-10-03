@@ -1,4 +1,11 @@
-Gerrit Groovy Provider Plugin
+# DEPRECATION NOTICE
+
+GerritForge has decided to [change the license to BSL](https://gitenterprise.me/2025/09/30/re-licensing-gerritforge-plugins-welcome-to-gerrit-enterprise/)
+therefore the Apache 2.0 version of this plugin is deprecated.
+The recommended version of the groovy-provider plugin is on [GitHub](https://github.com/GerritForge/groovy-provider)
+and the development continues on [GerritHub.io](https://review.gerrithub.io/admin/repos/GerritForge/groovy-provider,general).
+
+Gerrit Groovy Provider Plugin (DEPRECATED)
 =============================
 
 This plugin provides Groovy runtime environment for Gerrit plugins in Groovy.
